@@ -1,0 +1,3 @@
+	For server side I use JS. I belive that JS is programming language, that is gaining more and more popularity. I can use JS for front-end same as for back-end. There are many excellent frameworks for JS as f.e. AngularJS, NodeJS, ExtJS etc.
+	I am familiar with basic PHP. I have used it to work with MySQL.
+	For PHP I didn't use any framework. For JavaScript I've used mainly Skeleton, Twitter Bootstrap, Skeleton, jQuery.
